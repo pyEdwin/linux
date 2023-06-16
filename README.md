@@ -2,9 +2,12 @@
 -------------------------------------------------------------------------
 
 * Search for files and directories : **find** , **locate**
+
 <h6>find:</h6>
+
 - command used to search for files and directories
--Can search by name, file type 
+
+- Can search by name, file type 
 
 <h5>Syntax:</5>
 

@@ -23,7 +23,7 @@
 
 <h6>locate:</h6>
 
--faster than find
+- faster than find
 
 <h5>Syntax:</5>
 

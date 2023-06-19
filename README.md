@@ -32,6 +32,7 @@
 > locate i "file_name"
 
 * Files manipulation
+-------------------------------------------------------------------------
 
 <h6> cat:</h6>
 
@@ -58,6 +59,40 @@
 <h5>Syntax:</5>
 
 > nano file_name
+
+
+Input-output Redirection
+--------------------------------------------------------------------
+
+<h5> | (pipe)</h5>
+
+- Used to move data between the commands (Output of one command becomes the input of the other command)
+
+<h5>Syntax:</5>
+
+> command_1 | command_2
+
+<h5> The **>** operator </h5>
+
+- Used to write an output to a file
+- Create a file if it does not exist or overwrite an existing file
+
+<h5>Syntax:</5>
+
+> echo " output message" > example.txt
+
+
+<h5> The **>>** operator </h5>
+
+- Append the command output to a file
+- Create new file if that file name does not exist 
+
+<h5>Syntax:</5>
+
+> echo " output message" >> example.txt
+
+
+
 
 
 

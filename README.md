@@ -61,7 +61,7 @@
 > nano file_name
 
 
-Input-output Redirection
+* Input-output Redirection
 --------------------------------------------------------------------
 
 <h5> | (pipe)</h5>
@@ -91,7 +91,16 @@ Input-output Redirection
 
 > echo " output message" >> example.txt
 
+* Archive files or folders
+---------------------------------------------------------------------------------------------------------
 
+<h5>tar:</h5>
+
+- Used to combined multiple files in one single file.
+
+<h5>Syntax:</5>
+
+> tar -cf file_name.tar file_to_archived
 
 
 
